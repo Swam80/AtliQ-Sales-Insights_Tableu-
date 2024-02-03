@@ -3,13 +3,14 @@
 
 
 
-## About ATLIQ: 
+## About: 
 
 * A company that supplies computer hardware and peripherals to many clients across India. The company has a head office in Delhi and regional offices throughout India.
         
 ## PROBLEM STATEMENTS:
 The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate insights about the company sales and then makes the necessary decisions.
-* Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
+
+Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
 Q1. Revenue breakdown by cities.
 
@@ -44,7 +45,7 @@ Q5. Net Profit & Profit Margin by Market.
     in Tableau to draw valuable insights based on different parameters affecting the company 
     performance year on year and further provide business solutions.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## APPROACH - PROJECT PLANNING & AIMS GRID
