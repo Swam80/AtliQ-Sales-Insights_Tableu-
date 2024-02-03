@@ -96,22 +96,21 @@ Based on the dashbaords insights, I have made some conclusions and recommendatio
 
 ### Conclusions
 * Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
-* Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
+* Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on where as Bangalore, Bubhaneshwar and Surat have been at all time low revenue generated marters.
 * Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
-* Majority of the sales were takes place in the month of January followed by November and March.
+* Across the years, the top 5 customers have been Electrical SaraStores, Electricalslytical, Excel Stores , Premium Stores and Nixcoh.
+* In terms of Profit Margin %, 2019 had the highest PM% at 3.12%
+* Overall, eventhough Surat has been on the low revenue generation side, it has highest Profit Margin % at 4.86% on the other hand, Delhi NCR that has highest revenue generation has a PM% of only 2.3%.
+* Bangalore has seen the worst market at profit margin of -20.78 %.
+* In 2020, eventhough Delhi has given the most revenue, it was Bubhaneshwar who was the most profitable market at 10.48%
+* Leader was the most profitable customer across the years at profit margin of 7.54% amd in 2020 Electricalsbea stores had highest PM % at 15.63%
+* Product 001 and Product037 are top two with highest PM % at 39% and 38% respectively.
+* Product 080 and Product 022 are bottom two lowest PM% with -35% and -30% respectively.
 
 ### Recommendation
-* Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubhaneshwar also.try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
-* Start target campagin for Prod047 and Prod061 since they two are the most profitable and most selling products.
-* Try to give special benefits to Electronics and Excel stores as they are most profitable customers.
+* Considering 2019 and 2020, focus more on sales improvement in Lucknow, Surat and Bubhaneshwar as these have very low revenue. Especially Surat because it has lowest Profit Margin of Negative (-0.19%).
+* Need to check costs of operations in Surat since loss have been incurred in 2019 and 2020 combined.
+* Maintain good relationship with customers with overall high PM% like leader and in 2020, it was Electricalsbea. Maybe try giving them discounts?
 * Make campgain strategy for mid year as they are showing high sales among other months.
-* 
-## RECOMMENDATION:
+* Even though, Delhi and Mumbai share top two spots for Revenue generation and Sales quantity, their Profit Margin % is pretty low. Need to revise additional costs or operations costs so that the profits can be maximised
 
-Based on the dashboards Insights:
-
-  1) Should Maintain healthy relationship with the customers in Bhubaneshwar, Hyderabad, Chennai as they are highest profit % by market.
-  2) Make some stategy for Lucknow market as its revenue are less and also profit % are in negative.
-  3) Figure out what need to be done as sales quantity in Kanpur, Surat, Patna, Bhubaneshwar, Chennai are the lowest.
-  4) North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
-  5) Delhi is the highest revenue contibutor and second highest profit contributor whereas Mumbai is the second highest revenue contributor and highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
