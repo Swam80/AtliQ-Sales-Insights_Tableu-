@@ -81,13 +81,13 @@ Creating Star Schema in Tableau
 
 ![image](data_model.JPG)
 
-### Tableau Dashboard: Revenue Analysis
+### Tableau Dashboard: Revenue Analysis (2019 and 2020)
 
 ![image](Revenue_insights.JPG)
 
 
 
-### Tableau Dashboard: Profit Analysis
+### Tableau Dashboard: Profit Analysis (2019 and 2020)
 
 ![image](Profit_insights.JPG)
 
