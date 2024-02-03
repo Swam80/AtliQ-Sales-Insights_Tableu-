@@ -11,15 +11,15 @@
 The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate insights about the company sales and then makes the necessary decisions.
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
-        Q1. Revenue breakdown by cities.
+Q1. Revenue breakdown by cities.
 
-        Q2. Revenue breakdown by years & months. 
+Q2. Revenue breakdown by years & months. 
 
-        Q3. Top 5 customers by revenue & sales quantity.
+Q3. Top 5 customers by revenue & sales quantity.
 
-        Q4. Top 5 Products by revenue.
+Q4. Top 5 Products by revenue.
 
-        Q5. Net Profit & Profit Margin by Market.
+Q5. Net Profit & Profit Margin by Market.
 
 Technologies Used: 
 
