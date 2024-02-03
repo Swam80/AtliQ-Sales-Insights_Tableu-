@@ -4,7 +4,8 @@
 
 
 ## About ATLIQ: 
-• A company that supplies computer hardware and peripherals to many clients across India. The company has a head office in Delhi and regional offices throughout India.
+
+* A company that supplies computer hardware and peripherals to many clients across India. The company has a head office in Delhi and regional offices throughout India.
         
 ## PROBLEM STATEMENTS:
 The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate insights about the company sales and then makes the necessary decisions.
