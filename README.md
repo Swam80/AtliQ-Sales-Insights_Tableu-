@@ -90,7 +90,21 @@ Creating Star Schema in Tableau
 
 ![image](Profit_Insights.JPG)
 
+## Final Report
+Based on the dashbaords insights, I have made some conclusions and recommendation that Sales Marketing team should/can consider making a sales strategy.
 
+### Conclusions
+* Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
+* Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
+* Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
+* Majority of the sales were takes place in the month of January followed by November and March.
+
+### Recommendation
+* Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubhaneshwar also.try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
+* Start target campagin for Prod047 and Prod061 since they two are the most profitable and most selling products.
+* Try to give special benefits to Electronics and Excel stores as they are most profitable customers.
+* Make campgain strategy for mid year as they are showing high sales among other months.
+* 
 ## RECOMMENDATION:
 
 Based on the dashboards Insights:
