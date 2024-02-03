@@ -9,7 +9,7 @@
         
 ## PROBLEM STATEMENTS:
 The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate insights about the company sales and then makes the necessary decisions.
-Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
+* Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
 Q1. Revenue breakdown by cities.
 
@@ -21,7 +21,7 @@ Q4. Top 5 Products by revenue.
 
 Q5. Net Profit & Profit Margin by Market.
 
-Technologies Used: 
+### Technologies Used: 
 
 •	Advance Excel
 
@@ -31,7 +31,7 @@ Technologies Used:
 
 •	Statistics
         
-## Steps Performed : 
+### Steps Performed : 
 
 
 •	Performed Data Cleaning, Analysing and Visualization on India based hardware company sales insights.
