@@ -1,11 +1,11 @@
-# ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
+# ATLIQ-Sales-Insights
 
 
 
 
 ## About: 
 
-* A company that supplies computer hardware and peripherals to many clients across India. The company has a head office in Delhi and regional offices throughout India.
+* AtliQ Hardware is company that supplies computer hardware and peripherals to many clients across India. The company has a head office in Delhi and regional offices throughout India.
         
 ## PROBLEM STATEMENTS:
 The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate insights about the company sales and then makes the necessary decisions.
@@ -83,13 +83,13 @@ Creating Star Schema in Tableau
 
 ### Tableau Dashboard: Revenue Analysis
 
-![image](Revenuew_Insights.JPG)
+![image](Revenue_insights.JPG)
 
 
 
 ### Tableau Dashboard: Profit Analysis
 
-![image](Profit_Insights.JPG)
+![image](Profit_insights.JPG)
 
 ## Final Report
 Based on the dashbaords insights, I have made some conclusions and recommendation that Sales Marketing team should/can consider making a sales strategy.
